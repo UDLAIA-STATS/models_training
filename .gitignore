@@ -7,6 +7,8 @@ wheels/
 *.egg-info
 .env
 football-players-detection-v2-1/
+Shirt-number-Recognition-1/
+models/
 YOLOv8/
 # Virtual environments
 .venv
