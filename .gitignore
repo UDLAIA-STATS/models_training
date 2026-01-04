@@ -14,3 +14,4 @@ YOLOv8/
 .venv
 uv.lock
 *.pt
+*.h5
